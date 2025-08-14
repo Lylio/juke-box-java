@@ -1,20 +1,21 @@
 <!--Project Name-->
-<h1>MP3 Music Player App</h1>
+<h1>Juke Box Java</h1>
 
-<!--Introduction-->
-<h2>Introduction</h2>
-<p>In this project, you'll learn how to build a MP3 Music Player App in Java! You can check out the full tutorial <a href="https://www.youtube.com/watch?v=xf0aH2K3oJ4">here</a>
-  , where I carefully go over the logic flow so that you can understand how this project is coded the way it was.
+<!--Description-->
+<h2>Description</h2>
+<p>This is a Java MP3 Music Player App which allows users to play individual MP3 files and create custom playlists. The tutorial can be found <a href="https://www.youtube.com/watch?v=xf0aH2K3oJ4">here</a>.
 </p>
 
-<!--Technologies/Frameworks-->
-<h2>Technologies Frameworks</h2>
-<ul>
-  <li><b>JDK 18+ - Java Version</b></li>
-  <li><b>Mp3Magic</b> - A java library for reading mp3 files and manipulating mp3 file ID3 tags</li>
-  <li><b>JLayer</b> - MP3 decoder/player/converter library for Java™ platform. </li>
-  <li><b>JAudioTagger</b> - The aim of this project is to provide a world class Java library for editing tag information in audio files. Most existing solutions are not java based inhibiting the use of java applications with digital files. </li>
-</ul>
+<!--Tech Stack-->
+<h2>Tech Stack</h2>
+
+| Component    | Tech                                                                                                            |
+|--------------|-----------------------------------------------------------------------------------------------------------------|
+| App Link     | [juke-box-java.lyle.app](https://juke-box-java.lyle.app)                                                        |                                                                                                                                                                                                                                                                                               
+| Frontend     | ![Swing](https://img.shields.io/badge/JAVA%20-%20SWING-red?style=for-the-badge)                                 |
+| Backend      | ![Java](https://img.shields.io/badge/JAVA%20-JDK%2018+-green?style=for-the-badge)                               |
+| Cloud        | ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)       |
+| Repo Size    | ![Repo Size](https://img.shields.io/github/repo-size/lylio/juke-box-java?style=for-the-badge)                   
 
 <!--Features-->
 <h2>Features</h2>
@@ -32,9 +33,7 @@
   <li>🔃 Load a Custom Playlist</li>
 </ul>
 
+<br>
 
-<!--Screenshots (GIFs/PNGs)-->
-<h2>Screenshots</h2>
-<p align="center">
-  <img src="https://github.com/curadProgrammer/Java-Swing-MusicPlayer/blob/main/Screenshot_38.png" alt="Music Player App Screenshot">
-</p>
+#### Acknowledgements
+The cool repo badges, logos and code stats on this README are courtesy of [Simple Icons](https://simpleicons.org) and [Shields.io](https://shields.io).

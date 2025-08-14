@@ -26,7 +26,7 @@ public class MusicPlayerGUI extends JFrame {
 
     public MusicPlayerGUI(){
         // calls JFrame constructor to configure out gui and set the title heaader to "Music Player"
-        super("Music Player");
+        super("Juke Box Java");
 
         // set the width and height
         setSize(400, 600);
