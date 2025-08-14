@@ -9,19 +9,19 @@
 <!--Tech Stack-->
 <h2>Tech Stack</h2>
 
-| Component    | Tech                                                                                                            |
-|--------------|-----------------------------------------------------------------------------------------------------------------|
-| App Link     | [juke-box-java.lyle.app](https://juke-box-java.lyle.app)                                                        |                                                                                                                                                                                                                                                                                               
-| Frontend     | ![Swing](https://img.shields.io/badge/JAVA%20-%20SWING-red?style=for-the-badge)                                 |
-| Backend      | ![Java](https://img.shields.io/badge/JAVA%20-JDK%2018+-green?style=for-the-badge)                               |
-| Cloud        | ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)       |
-| Repo Size    | ![Repo Size](https://img.shields.io/github/repo-size/lylio/juke-box-java?style=for-the-badge)                   
+| Component    | Tech                                                                                                      |
+|--------------|-----------------------------------------------------------------------------------------------------------|
+| App Link     | [juke-box-java.lyle.app](https://juke-box-java.lyle.app)                                                  |                                                                                                                                                                                                                                                                                               
+| Frontend     | ![Swing](https://img.shields.io/badge/JAVA%20-%20SWING-teal?style=for-the-badge)                          |
+| Backend      | ![Java](https://img.shields.io/badge/JAVA%20-JDK%2018+-green?style=for-the-badge)                         |
+| Cloud        | ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white) |
+| Repo Size    | ![Repo Size](https://img.shields.io/github/repo-size/lylio/juke-box-java?style=for-the-badge)             
 
 <!--Features-->
 <h2>Features</h2>
 <ul>
   <li>🎶 Play an MP3 File (Song)</li>
-  <li>🎙 Display Title of Song</li>
+  <li>🎙 Display Title of Song</li> 
   <li>👤 Display Artist of Song</li>
   <li>⏳ Display the Length of the Song</li>
   <li>⏪ Playback Functionality</li>
